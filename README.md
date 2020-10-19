@@ -19,7 +19,7 @@
 
 # 💖to Learn & Technologies Enthusiast!
 
-Hello , My name is Zachrandika Alif Syahreza and you can call me Alif or Aladdin 😄. I'm a **Sophomore Student** at **Bandung Institute of Technologies** majoring in **Information System and Technology**. My student number is **18219036**. Experienced in programming, social media administrator, and
+Hello , My name is Zachrandika Alif Syahreza and you can call me Alif or Aladdin 😄. I'm a **Sophomore Student** at **Bandung Institute of Technologies** majoring in **Information System and Technology**. Experienced in programming, social media administrator, and
 also a project leader. 👋💕
 
 <!-- section - intro -->
