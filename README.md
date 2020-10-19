@@ -1,11 +1,11 @@
 <!-- links to social media accounts -->
 <!-- icons  -->
 
-[1.1]: https://github.com/alifsyr/alifsyr/blob/master/assets/icons/icons8-linkedin-48.png (Linkedin Zachrandika Alif Syahreza)
-[2.1]: https://github.com/alifsyr/alifsyr/blob/master/assets/icons/icons8-github-48.png (Github Zachrandika Alif Syahreza)
-[3.1]: https://github.com/alifsyr/alifsyr/blob/master/assets/icons/icons8-instagram-48.png (Instagram Zachrandika Alif Syahreza)
-[4.1]: https://github.com/alifsyr/alifsyr/blob/master/assets/icons/icons8-email-48.png (Email Zachrandika Alif Syahreza)
-[5.1]: https://github.com/alifsyr/alifsyr/blob/master/assets/icons/icons8-medium-new-48.png (Medium Zachrandika Alif Syahreza)
+[1.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-linkedin-48.png (Linkedin Zachrandika Alif Syahreza)
+[2.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-github-48.png (Github Zachrandika Alif Syahreza)
+[3.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-instagram-48.png (Instagram Zachrandika Alif Syahreza)
+[4.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-email-48.png (Email Zachrandika Alif Syahreza)
+[5.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-medium-new-48.png (Medium Zachrandika Alif Syahreza)
 
 <!-- links to social media accounts -->
 
