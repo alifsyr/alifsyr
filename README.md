@@ -1,11 +1,10 @@
 <!-- links to social media accounts -->
 <!-- icons  -->
 
-[1.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-linkedin-48.png (Linkedin Zachrandika Alif Syahreza)
-[2.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-github-48.png (Github Zachrandika Alif Syahreza)
-[3.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-instagram-48.png (Instagram Zachrandika Alif Syahreza)
-[4.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-mail-48.png (Email Zachrandika Alif Syahreza)
-[5.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/icons8-medium-new-48.png (Medium Zachrandika Alif Syahreza)
+[1.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/logo-linkedin-32px.png (Linkedin Zachrandika Alif Syahreza)
+[2.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/logo-github-32px.png (Github Zachrandika Alif Syahreza)
+[3.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/logo-instagram-32px.png (Instagram Zachrandika Alif Syahreza)
+[4.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/iconslogo-email-32px.png (Email Zachrandika Alif Syahreza)
 
 <!-- links to social media accounts -->
 
@@ -13,7 +12,6 @@
 [2]: https://github.com/alifsyr
 [3]: https://instagram.com/__zchrndkalif
 [4]: mailto:alifsyr@gmail.com
-[5]: https://medium.com/@alifsyr
 
 <!-- section - intro -->
 
@@ -30,7 +28,6 @@ also a project leader. 👋💕
 [![github][2.1]][2]
 [![instagram][3.1]][3]
 [![email][4.1]][4]
-[![medium][5.1]][5]
 
 <!-- section - social media icons -->
 
@@ -56,7 +53,6 @@ Thanks for reading about me. You can connect with me on ..
 [![github][2.1]][2]
 [![instagram][3.1]][3]
 [![email][4.1]][4]
-[![medium][5.1]][5]
 
 <!-- section - social media icons -->
 
